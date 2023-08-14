@@ -4,7 +4,6 @@ public class Main {
 
 
         System.out.println("Я изучаю джаву");
-
-
+        ////изменения
     }
 }
